@@ -24,7 +24,7 @@ TO SETUP
   
 SOME DETAILS
 
-- You can control 40 tracks + master tracks with this. Whatever track is selected, all plugin controls focus on controlling that track.
+- You can control 40 tracks + master tracks with this .tosc file. Whatever track is selected, all plugin controls focus on controlling that track.
   
 - Preset next/previous buttons (under the track selection buttons) work for the last controlled FX, not the one thats floating currently on the screen. I made it that way because i thought i would need to control plugins without opening them.
   
