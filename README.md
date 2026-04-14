@@ -2,7 +2,7 @@
 
 # OZreapertouchosc
 
-TouchOSC template for Reaper. It controls the DAW itself to some extent and some specific plugins: ReaEQ, ReaComp, ReaGate, JS 1175, SSL G Master Buss Compressor, Alterboy, ProQ 4, H-Delay, L1+, Microshift, S1 Shuffler, Sibilance, Fresh Air, Decapitator, VintageVerb, Neural Amp Modeler. So you see, unfortunately it isn't flexible and won't fit most people's needs because it is tailored for specific plugins. But I think it gives great control and feedback for those who use these plugins. If not, feel free to use this project as your draft and personalize :)
+TouchOSC template for Reaper. It controls the DAW itself to some extent and some specific plugins: ReaEQ, ReaComp, ReaGate, JS 1175, SSL G Master Buss Compressor, Alterboy, ProQ 4, H-Delay, L1+, Microshift, S1 Shuffler, Sibilance, Fresh Air, Decapitator, VintageVerb, Neural Amp Modeler. So you see, unfortunately it isn't flexible and won't fit most people's needs because it is tailored for specific plugins. But I think it gives clear control and feedback for those who use these plugins. If not, feel free to use this project as your draft and personalize :)
 
 TO SETUP
 
