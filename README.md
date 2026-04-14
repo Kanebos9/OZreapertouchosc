@@ -22,6 +22,40 @@ TO SETUP
   
 - Extract the zip file I uploaded here (OZ scripts.7z). Copy all of the lua script files in it. Then go to Reaper > Actions (in the top bar) > Show action list > New action > Show reascript path in explorer/finder. It will open where your custom scripts are located. Paste all the lua files here. Then again, click on New action > Load reascript. Add all of them. Oh, and you dont have to choose one by one, you can select all of them at once, i didnt know that but now you know.
   
+- The way realearn controls is by finding the plugins by their name. I used the default names for each plugin. And I chose VST3 versions of them. So if i didnt miss any, the names in the FX list should be like this: 
+
+VST: ReaEQ (Cockos)
+
+VST: ReaComp (Cockos)
+
+VST: ReaGate (Cockos)
+
+VST3: H-Delay Stereo (Waves)
+
+VST: S1 Shuffler Stereo (Waves)
+
+VST: Sibilance Stereo (Waves)
+
+VST: L1+ Ultramaximizer Stereo (Waves)
+
+VST3: SSLComp Stereo (Waves)
+
+VST: Decapitator (x86) (SoundToys)
+
+VST: MicroShift (x86) (SoundToys)
+
+VST: Little AlterBoy (x86) (SoundToys)
+
+VST3: ValhallaVintageVerb (Valhalla DSP, LLC)
+
+VST3: Pro-Q 4 (FabFilter)
+
+VST3: Fresh Air (Slate Digital)
+
+JS: 1175 Compressor
+
+VST3: NeuralAmpModeler (Steven Atkinson)
+  
 SOME DETAILS
 
 - You can control 40 tracks + master tracks with this .tosc file. Whatever track is selected, all plugin controls focus on controlling that track.
