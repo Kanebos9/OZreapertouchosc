@@ -55,6 +55,8 @@ VST3: Fresh Air (Slate Digital)
 JS: 1175 Compressor
 
 VST3: NeuralAmpModeler (Steven Atkinson)
+
+If there is any mistakes, you can fix it in realearn.
   
 SOME DETAILS
 
